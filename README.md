@@ -23,7 +23,7 @@ make
 
 Serve index.html and js files for example with:
 ```
-python -m SimpleHTTPServer 
+cd www && python -m SimpleHTTPServer
 ```
 then open http://localhost:8000 with your favorite browser.
 Click "Genera JSON", "Genera XML" and "Valida" buttons.

@@ -2,7 +2,7 @@
   "name": "fatturapa-simple-editor",
   "version": "0.0.1",
   "description": "Simple editor for fattura PA",
-  "main": "index.html",
+  "main": "www/index.html",
   "repository": "https://github.com/simevo/fatturapa-simple-editor",
   "author": "Paolo Greppi simevo s.r.l.",
   "license": "BSD-3-Clause",
