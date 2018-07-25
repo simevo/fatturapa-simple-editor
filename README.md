@@ -36,6 +36,10 @@ then open http://localhost:8000 with your favorite browser.
 
 Click "Genera JSON", "Genera XML" and "Valida JSON" buttons.
 
+Screenshot:
+
+![Screenshot](/screenshot.png)
+
 ### Linting
 
 Lint the code with:
