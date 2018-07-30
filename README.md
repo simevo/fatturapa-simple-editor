@@ -34,7 +34,7 @@ cd www && python -m SimpleHTTPServer
 ```
 then open http://localhost:8000 with your favorite browser.
 
-Click "Genera JSON", "Genera XML" and "Valida JSON" buttons.
+Click "Carica dati", "Genera JSON", "Genera XML" and "Valida JSON" buttons.
 
 Screenshot:
 
